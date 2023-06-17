@@ -1,11 +1,8 @@
-# Practica ESP32 con sensor DHT22 
-En este repositorio se realizó una práctica 
-
-## Introducción
+# Practica con Node-Red 
 
 ### Descripción
 
-En esta simulación se muestran en una **LCD** los datos recopilados por los sensores **DHT** y de **Temperatura y humedad**. En esta práctica se usará nuevamente el simulador [WOKWI](https://wokwi.com/).
+En esta práctica se enseña como instalar el software Node-red para la comunicación de datos en línea mediante un servidor público, para la muestra de datos se utilizó un sensor **DHT22** para su demostración.
 
 
 ## Material Necesario
